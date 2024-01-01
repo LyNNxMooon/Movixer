@@ -1,0 +1,17 @@
+const kSearchBarText = 'Search Movies....';
+const kSimilarMovieSessionTitleText = 'You May Like';
+const kPopularMovieSessionTitleText = 'Popular';
+const kMovieDetailPageStoryLineText = "Story Line";
+const kMovieDetailPageCastText = "Star Cast";
+const kMovieDetailPageCrewText = "Talent Squad";
+const kMovieDetailPageProductionCompanyTitleText = "Production Companies";
+const kMovieDetailPageRecommendedSessionTitleText = "Recommended";
+const kMovixerText = "Movixer";
+const kActorDetailPageBiographyTitleText = "Biography";
+const kActorDetailPageMoreInfoTitleText = "More Information";
+const kActorDetailPageKnowForMoviesTitleText = "Known For";
+const kActorDetailBirthPlaceText = "Place of Birth";
+const kActorDetailBirthDayText = "BirthDay";
+const kActorDetailDeathDayText = "DeathDay";
+const kActorDetailGenderText = "Gender";
+const kActorDetailPopularityText = "Popularity";
