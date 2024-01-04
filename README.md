@@ -8,6 +8,9 @@ The project is accomplished with:
  - Persistent local storage is used to store the movie ID and Actors ID, Genres ID to filter out the movies to display one the view layer and search movies Box🎬
  - Written with clean widgets and files architecture, where API files, logics files , widgets files, network and data files are nicely organized 🎯
 
+![Untitled design (7)](https://github.com/LyNNxMooon/Movixer/assets/112456534/76c8dcca-73c4-48b3-8b47-cc821cd5c2da)
+![Untitled design (8)](https://github.com/LyNNxMooon/Movixer/assets/112456534/d6f8b77f-9ffd-45b4-9a8c-360347a723c5)
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
