@@ -11,13 +11,3 @@ The project is accomplished with:
 ![Untitled design (7)](https://github.com/LyNNxMooon/Movixer/assets/112456534/76c8dcca-73c4-48b3-8b47-cc821cd5c2da)
 ![Untitled design (8)](https://github.com/LyNNxMooon/Movixer/assets/112456534/d6f8b77f-9ffd-45b4-9a8c-360347a723c5)
 
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
